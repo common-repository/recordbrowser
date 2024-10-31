@@ -1,0 +1,102 @@
+.albumtitle {
+	font-size:17px;
+}
+
+.band {
+	font-size:17px;
+	font-weight:bold;
+}
+
+
+
+.tracknr {
+	text-align:right;
+	margin-right:7px; display:inline-table;
+	width:15px;
+}
+
+.side {
+	font-weight:bold;
+	font-size:1.1em;
+	margin-bottom:2px;
+	margin-top:8px;
+	display:inline-table;
+}
+
+
+
+img.displayall {
+	max-width:100%;
+	min-width:100%;
+}
+img.displaysingle {
+	max-width:100%;
+}
+
+img.rbadmin {
+	max-width:60%;
+}
+
+.tracklist {
+margin-bottom:40px;
+font-size:14px;
+}
+
+hr.rb {
+	border-top: 4px double #8c8b8b;
+	text-align: center;
+}
+
+
+
+span.error_message_rb {
+	font-color: #ff0071;
+	font-weight:bold;
+	display:inline-block;
+}
+
+
+
+.toggle_options {
+	font-size:16px;
+	font-weight:bold;
+}
+
+a.current {
+	font-weight: bold;
+}
+#randomrecordbrowsersidebarwidget {
+	line-height:17px;
+	height:100%;
+}
+#randomrecordbrowsersidebarwidget .widget_albumtitle {
+	font-size:15px;
+	text-align: left; }
+
+#randomrecordbrowsersidebarwidget .widget_band {
+	font-size:15px; font-weight:bold;
+	text-align: left; }
+
+#randomrecordbrowsersidebarwidget .widget_displayall {
+	min-width:90%;
+	max-width:90%;
+}
+
+span.proudly_powered_by_recordbrowser {
+	font-size:13px;
+	font-style:italic;
+}
+
+#randomrecordbrowsersidebarwidget .recordbrowser_widget_record {
+	margin-bottom:15px;
+}
+
+#randomrecordbrowsersidebarwidget div.recordbrowser_widget_details {
+	margin-bottom:50px;
+	margin-top:10px;
+}
+
+.addeddiv
+{
+	display:none;
+}
